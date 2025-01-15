@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 First year in Immersive Software Engineering at UL
+🎓 First year in Immersive Software Engineering at UL <br>
 🔭 Currently learning Java, C, and JavaScript
 
 
