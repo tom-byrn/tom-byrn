@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 First year in Immersive Software Engineering at UL <br>
-🔭 Currently learning Java, C, and JavaScript <br>
+🏆 2x NDRC startup sprint hackathon winner <br>
+🔭 Currently learning Java, C, and TypeScript <br>
 🔗 https://tombyrne.dev/
 
 
