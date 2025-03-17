@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 First year in Immersive Software Engineering at UL <br>
 🔭 Currently doing Java, C, and TypeScript <br>
-☀️ Working on https://kepri.ie/
+☀️ Working on https://kepri.ie/ <br>
 🔗 https://tombyrne.dev/
 
 
