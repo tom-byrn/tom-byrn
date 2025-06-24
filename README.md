@@ -1,5 +1,6 @@
 # 💫 About Me:
 🎓 First year in Immersive Software Engineering at UL <br>
+🏢 Currently interning at Stripe, incoming intern at AWS <br>
 ☀️ Working on https://kepri.ie/ <br>
 🔗 https://tombyrne.dev/
 
