@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Second year in Immersive Software Engineering at UL <br>
-🏢 Intern at AWS, prev intern at Stripe <br>
+🏢 Prev. intern at Stripe & AWS <br>
 🔗 https://tombyrne.dev/
 
 # 💻 Tech Stack:
